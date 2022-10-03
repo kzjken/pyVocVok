@@ -304,8 +304,7 @@ badly ad.坏，差；严重地
 badminton n.羽毛球
 bag n.袋，包，钱包，背包
 baggage n.行李
-bake vt.烤，烘，焙；烧
-硬
+bake vt.烤，烘，焙；烧硬
 balance vt.使平衡；称n.天平
 ball n.球，球状物；舞会
 balloon n.气球，玩具气球
@@ -896,8 +895,7 @@ conduct n.举止，行为；指导
 conductor n.售票员；(乐队)指挥
 conference n.会议，讨论会
 confess vt.供认，承认；坦白
-confidence n.信任；信赖；信
-心
+confidence n.信任；信赖；信心
 confident n.确信的，自信的
 confine vt.限制；禁闭
 confirm vt.证实，肯定；批准
@@ -2684,8 +2682,7 @@ oh int.嗬，哦，唉呀
 oil n.油；石油vt.加油于
 okay (缩作OK) a.&ad.对，好
 old a.老的；…岁的
-omit vt.省略，省去；遗
-漏
+omit vt.省略，省去；遗漏
 on prep.在…上；在…旁
 once ad.一次；曾经n.一次
 one num.一pron.一个人
@@ -2992,8 +2989,7 @@ playground n.操场，运动场
 pleasant a.令人愉快的，舒适的
 please vt.使高兴，请vi.满意
 pleasure n.愉快，快乐；乐事
-plentiful a.丰富的，富裕
-的
+plentiful a.丰富的，富裕的
 plenty n.丰富，充足，大量
 plot n.小块土地vt.密谋
 plough n.犁vt.&vi.犁，耕
@@ -3150,8 +3146,7 @@ raid n.袭击；突然搜查
 rail n.横条，横杆；铁轨
 railroad n.铁路vi.由铁路运输
 railway n.铁路，铁道
-r
-ecite vt.&vi.背诵，朗诵
+recite vt.&vi.背诵，朗诵
 recognition n.认出，识别；承认
 recognize vt.认识，认出；承认
 recollect vt.回忆，追忆，想起
@@ -3175,8 +3170,7 @@ reflexion n.反射；映象；反映
 reform vt.&n.改革，改良
 refresh vt.使清新vi.恢复精神
 refreshment n.茶点，点心，便餐
-refrigerator n.冰箱，冷藏
-库
+refrigerator n.冰箱，冷藏库
 refuge n.避难，庇护；庇护者
 refusal n.拒绝
 refuse vt.拒绝vt.拒绝
@@ -3364,8 +3358,7 @@ royal a.王的；皇家的
 rub vt.摩擦，擦vi.摩擦
 rubber n.橡皮(擦子)；橡胶
 rubbish n.垃圾，废物；废话
-rude a.加工粗糙的；粗野
-的
+rude a.加工粗糙的；粗野的
 rug n.小地毯；毛毯
 ruin n.毁灭；废墟vt.毁坏
 rule n.统治；规定；习惯
@@ -3897,8 +3890,7 @@ stone n.石，石头；宝石
 stony a.多石的；冷酷的
 stool n.凳子
 stoop vi.俯身；弯身n.弯腰
-stop vt.塞住；阻止；停
-止
+stop vt.塞住；阻止；停止
 storage n.贮藏；贮藏量
 store n.贮藏；贮存品；商店
 storey n.(层)楼
@@ -4079,8 +4071,7 @@ telephone n.电话vi.打电话
 telescope n.望远镜
 television n.电视；电视机
 tell vt.讲述；吩咐；辨别
-temper n.韧度；心情，情
-绪
+temper n.韧度；心情，情绪
 temperature n.温度；体温
 temple n.圣堂，神殿，庙宇
 temporary a.暂时的，临时的
@@ -4342,8 +4333,7 @@ vivid a.鲜艳的；生动的
 vocabulary n.词汇表；词汇，语汇
 voice n.说话声；意见；语态
 volcano n.火山
-volleyball n.排球，排球运
-动
+volleyball n.排球，排球运动
 volt n.伏特，伏
 voltage n.电压
 volume n.卷，册；容积；音量

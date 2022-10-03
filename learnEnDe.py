@@ -15,11 +15,13 @@ def saveFile(csvFile, lstIn):
 def main():
     os.system('cls')
     lstEnSrc = readTxt('vocList.txt')
+    count = 0
     for idx, vocabulary in enumerate (lstEnSrc):
         # if vocabulary[0:-1].count(' ') > 1:
         #     print(str(idx) + ': ' + vocabulary[0:-1] + '  space No.: ' + str(vocabulary[0:-1].count(' ')))
         if len(vocabulary[0:-1]) == 1:           
-            print(str(idx) + ': ' + vocabulary[0:-1])
+            print(str(count) + ': ' + str(idx) + ': ' + vocabulary[0:-1])
+            count += 1 
     # saveFile('vocListDest.csv', lstEnSrc)
 
 if __name__ == "__main__":
