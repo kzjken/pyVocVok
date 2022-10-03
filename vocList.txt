@@ -194,7 +194,7 @@ affair n.事情，事件；事务
 affect vt.影响；感动
 aluminium n.铝
 always ad.总是，一直；永远
-a. m (缩)上午，午前
+a.m (缩)上午，午前
 amaze vt.使惊奇，使惊愕
 ambition n.雄心，抱负，野心
 ambulance n.救护车；野战医院
@@ -336,7 +336,7 @@ bathroom n.浴室；盥洗室
 battery n.电池；一套，一组
 battle n.战役；斗争vi.作战
 bay n.湾；山脉中的凹处
-B. C. (缩)公元前
+B.C. (缩)公元前
 be aux. v.&vi.是，在，做
 beach n.海滩，湖滩，河滩
 beam n.梁；横梁；束，柱
@@ -1942,7 +1942,7 @@ identical a.完全相同的；同一的
 identify vt.认出，识别，鉴定
 idiom n.习语，成语
 idle a.空闲的；懒散的
-i. e. (=that is)那就是，即
+i.e. (=that is)那就是，即
 if conj.假如，如果
 ignorant a.不知道的；无知的
 ignore vt.不顾，不理，忽视
@@ -3002,7 +3002,7 @@ plug n.塞子；插头vt.塞
 plunge vt.使投入；使陷入
 plural a.复数的n.复数
 plus prep.加，加上a.正的
-P. M. n.下午，午后
+P.M. n.下午，午后
 pocket n.衣袋n.袖珍的
 poet n.诗人
 poetry n.诗，诗歌，诗作
